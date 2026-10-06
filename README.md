@@ -3,7 +3,7 @@
 **Name:** Parth Jaiswal
 **Roll No.:** 13005324019
 **Course:** B.Tech, Electronics and Instrumentation Engineering (5th Semester)
-**University:** MAKAUT
+
 
 ## About
 Solutions to the 10 assignment questions on machine learning with Python, using pandas, scikit-learn, matplotlib and seaborn. All code is in a single file, `ml_fsp_solutions.py`, with one function per question.
